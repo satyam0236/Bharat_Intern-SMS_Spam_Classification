@@ -4,7 +4,7 @@
 Welcome to the SMS Spam Classifier project! This project aims to build a machine learning model capable of classifying SMS messages as either spam or not spam (ham). We've utilized Jupyter Notebook along with Python libraries such as pandas, scikit-learn, numpy, and matplotlib to develop this classifier.
 
 ## Dataset
-Our dataset comprises SMS messages labeled as either spam or ham. You can find the dataset in the `data` directory named `sms_spam.csv`. It's sourced from [insert dataset source here].
+Our dataset comprises SMS messages labeled as either spam or ham. You can find the dataset in the `data` directory named `SMSSpamCollection.csv`. It's sourced from [insert dataset source here].
 
 ## Usage
 To get started with this project, follow these steps:
@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
 
 3. **Explore the Dataset**: Dive into the dataset located in the `data` directory. Familiarize yourself with the structure and content of the SMS messages.
 
-4. **Open the Jupyter Notebook**: Launch the Jupyter Notebook `SMS_Spam_Classifier.ipynb` to explore the project code. Execute the code cells step by step to understand the data preprocessing, model training, and evaluation process.
+4. **Open the Jupyter Notebook**: Launch the Jupyter Notebook `SMS_Classifier.ipynb` to explore the project code. Execute the code cells step by step to understand the data preprocessing, model training, and evaluation process.
 
 5. **Model Training and Evaluation**: Follow the instructions in the notebook to preprocess the data, train the machine learning model, and evaluate its performance using accuracy score and classification report metrics.
 
